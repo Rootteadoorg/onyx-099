@@ -1,3 +1,4 @@
 # onyx-099
 
-# https://github.com/Rootteadoorg/onyx-099/blob/main/pictures/Captura%20de%20pantalla%20(57).png
+![Captura de pantalla (57)](https://github.com/user-attachments/assets/cefe7808-6638-4245-8cc3-68dd3ceb3791)
+
