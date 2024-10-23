@@ -1,4 +1,8 @@
 # onyx-099
 
-![Captura de pantalla (57)](https://github.com/user-attachments/assets/cefe7808-6638-4245-8cc3-68dd3ceb3791)
+<p align="center"> <img width="600" height="300" src="https://github.com/Rootteadoorg/onyx-099/blob/main/pictures/Captura%20de%20pantalla%20(57).png"> </pag>
 
+# Instalación:
+```bash
+PROXIMAMENTE.
+```
